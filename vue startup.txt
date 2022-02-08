@@ -1,0 +1,16 @@
+step 1: install vue-cli
+do: npm install -g @vue/cli
+
+step 2: make a folder for vue projects
+
+step 3: Set-ExecutionPolicy -ExecutionPolicy RemoteSigned(if vue needs permission)
+
+step 4: Create vue project
+
+do: vue create projectname (choose the Vue3 option)
+
+step 5:Open the folder in VS Code 
+
+step 6: do: npm run serve
+
+Optional: vue install tailwind(imstall css library taiwindcss)
