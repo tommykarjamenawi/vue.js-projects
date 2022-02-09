@@ -5,8 +5,7 @@
 </template>
 
 <script>
-import StockList from "./components/StockItem.vue";
-
+import StockList from "./components/StockList.vue";
 export default {
   name: "App",
   components: {
